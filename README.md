@@ -4,4 +4,4 @@ This tool was created by Iaroslav Savtchouk from [Andrea volterra Laboratory](ht
 
 A simple 5D Gaussian filter plugin for signal processing. This was currently missing from the default ImageJ tools, since the built-in 3D filter functionality does not fully support filtering higher-order stacks (such as combined z+t). The current plugin is natively capable of processing a 5-D stack, and is able to filter in all dimensions (except across channels). A DC offset option is provided to blank arbitrary noise values below a selectable threshold.
 
-![](img\fncel-12-00098-g005.jpg)
+![](img/fncel-12-00098-g005.jpg)
